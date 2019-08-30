@@ -30,8 +30,8 @@ This project is licensed under the MIT License
 
 # Acknowledgements
 [apache](http://httpd.apache.org/) </br>
-'''sh
+```sh
 sudo apt-get install apache2
-'''
+```
 [postgresql](https://www.postgresql.org/) </br>
 [tutorials](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04)
