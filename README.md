@@ -1,12 +1,12 @@
-#Linux Server Configuration
+# Linux Server Configuration
 Installation of Linux Server and deploy web applications
 
-#Getting Started
+# Getting Started
 
-#Prerequisites
+# Prerequisites
 - Amazon Lightsail
 
-#Installing
+# Installing
 - Update packages
 - Configure security (SSH port, firewall)
 - UTC
@@ -14,18 +14,18 @@ Installation of Linux Server and deploy web applications
 - PostgreSQL (not allow remote connections and limited permissions)
 - git
 
-#Deployment
+# Deployment
 - Deploy web applications
 
-#Built With
+# Built With
 
-#Contributing
+# Contributing
 
-#Versioning
+# Versioning
 
-#Authors
+# Authors
 
-#License
+# License
 
-#Acknowledgements
+# Acknowledgements
 
