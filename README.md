@@ -29,6 +29,6 @@ Installation of Linux Server and deploy web applications
 This project is licensed under the MIT License
 
 # Acknowledgements
-[![apache](http://httpd.apache.org/)]
-https://www.postgresql.org/
-https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
+[apache](http://httpd.apache.org/)
+[postgresql](https://www.postgresql.org/)
+[tutorials](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04)
