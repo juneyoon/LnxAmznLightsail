@@ -26,6 +26,7 @@ Installation of Linux Server and deploy web applications
 # Authors
 
 # License
+This project is licensed under the MIT License
 
 # Acknowledgements
 
